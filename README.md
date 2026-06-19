@@ -4,7 +4,6 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-brightgreen)
 ![EasyOCR](https://img.shields.io/badge/OCR-EasyOCR-orange)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A deep learning-based system that automatically **detects license plates** from vehicle images and **recognizes the plate number** using OCR — built with YOLOv8 and EasyOCR, deployed via a Streamlit web interface.
 
